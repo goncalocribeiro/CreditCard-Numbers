@@ -1,5 +1,6 @@
 # CreditCard-Numbers
-Project - Credit card numbers
+
+College: Instituto Superior Técnico
 
 Discipline: Foundations of programming
 
