@@ -1,5 +1,7 @@
 # CreditCard-Numbers
-Projeto Fundamentos da Programação - Números de Cartões de Crédito
+Project - Credit card numbers
+
+Discipline: Foundations of programming
 
 Programming Language: Python
 
